@@ -1,6 +1,6 @@
 ![image](images/microchip.jpg) 
 
-## %repoDescritpion%
+## DSPIC33CK POWER PWM CHOPPED OUTPUT USING COMBINATORIAL LOGIC
 
 Board Image if any.
 
