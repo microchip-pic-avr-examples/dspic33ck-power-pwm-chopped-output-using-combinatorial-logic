@@ -1,11 +1,9 @@
 ![image](images/microchip.jpg) 
 
-<<<<<<< HEAD
 # dsPIC33C High-Resolution PWM Configuration: Lab 6
 **Chopped PWM output using the Combinatorial Output**
 =======
 ## DSPIC33CK POWER PWM CHOPPED OUTPUT USING COMBINATORIAL LOGIC
->>>>>>> 0f84ba9bf6b00f5dc3b3194b14e27c5b7a05c69a
 
 <p><center><a target="_blank" href="https://www.microchip.com/MA330048" rel="nofollow">
 <img src="images/ma330048.jpg" alt="dsPIC33CK Digital Power Plug-In Module" width="300"></a></center></p>
