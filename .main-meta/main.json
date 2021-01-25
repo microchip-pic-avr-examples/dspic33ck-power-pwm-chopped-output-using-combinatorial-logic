@@ -32,10 +32,10 @@
 	},
 	"peripherals": [
 		"PWM",
-		"Timer"
+		"TIMER"
 	],
 	"subcategories": [
-		"Power"
+		"Power Management and Conversion"
 	],	
 	"keywords": [
 		"DSC",
