@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # dspic33ck-power-pwm-push-pull, release v1.0.0
 
 ### Release Highlights
@@ -8,7 +7,7 @@ This example is part of a series of code examples highlighting specific operatin
 ### Features Added\Updated
 In this initial version the on-board LED of the dsPIC33CK Digital Power Plug-In Module is toggled with a interval period of 300 ms, when the controller is running at maximum speed of 100 MIPS.
 After startup, PWM generator #1 is generating 100 kHz Complementary waveform at the PWM1H/PWM1L outputs while the PWM generator #3 is generating 1 MHz at the PWM3L output and the modulated PWM ouput is produce in PWM3H output. 
-=======
+
 # Project Name or repo name release version
 ### Release Highlights
 
@@ -17,5 +16,4 @@ After startup, PWM generator #1 is generating 100 kHz Complementary waveform at 
 ### Features Added\Updated
 
 
->>>>>>> 0f84ba9bf6b00f5dc3b3194b14e27c5b7a05c69a
 
