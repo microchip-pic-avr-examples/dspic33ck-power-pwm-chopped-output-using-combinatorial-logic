@@ -2,9 +2,9 @@
    "metaDataVersion": "1.0.0",
   "category": "com.microchip.ide.project",
   "content": {
-    "metaDataVersion": "1.0.0",
+    "metaDataVersion": "1.0.1",
     "name": "com.microchip.mplabx.project.dspic33ck-power-pwm-chopped-output-using-combinatorial-logic",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "dsPIC33CK/CH-MP PWM Configuration: Chopped PWM output using Combinatorial Logic",
     "projectName": "dspic33ck-power-pwm-chopped-output-using-combinatorial-logic",
     "shortDescription": "Chopped PWM Output usin Combinatorial Logic Configuration Example for dsPIC33CK-MP devices",
