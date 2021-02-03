@@ -7,7 +7,7 @@
     "version": "1.0.0",
     "displayName": "dsPIC33CK/CH-MP PWM Configuration: Chopped PWM output using Combinatorial Logic",
     "projectName": "dspic33ck-power-pwm-chopped-output-using-combinatorial-logic",
-    "shortDescription": "Chopped PWM Output usin Combinatorial Logic Configuration Example for dsPIC33CK-MP devices",
+    "shortDescription": "Chopped PWM Output using Combinatorial Logic Configuration Example for dsPIC33CK-MP devices",
 	"ide": {
 		"name": "MPLABX",
 		"semverRange": ">=5.40.0"
