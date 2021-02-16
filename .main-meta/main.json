@@ -1,0 +1,49 @@
+{
+   "metaDataVersion": "1.0.0",
+  "category": "com.microchip.ide.project",
+  "content": {
+    "metaDataVersion": "1.0.0",
+    "name": "com.microchip.mplabx.project.dspic33ck-power-pwm-chopped-output-using-combinatorial-logic",
+    "version": "1.0.0",
+    "displayName": "dsPIC33CK/CH-MP PWM Configuration: Chopped PWM output using Combinatorial Logic",
+    "projectName": "dspic33ck-power-pwm-chopped-output-using-combinatorial-logic",
+    "shortDescription": "Chopped PWM Output using Combinatorial Logic Configuration Example for dsPIC33CK-MP devices",
+	"ide": {
+		"name": "MPLABX",
+		"semverRange": ">=5.40.0"
+	},
+	"compiler": {
+		"name": "XC16",
+		"semverRange": "^1.50.0"
+	},
+	"dfp": {
+		"name": "dsPIC33CK-MP_DFP",
+		"semverRange": "^1.4.102"
+	},
+	"device": {
+		"metaDataVersion": "1.0.0",
+		"category": "com.microchip.portal.contentRef",
+		"content": {
+			"metaDataVersion": "1.0.0",
+			"category": "com.microchip.device",
+			"name": "dsPIC33CK",
+			"versionRange": "*"
+		}
+	},
+	"peripherals": [
+		"PWM",
+		"TIMER"
+	],
+	"subcategories": [
+		"Power Management and Conversion"
+	],	
+	"keywords": [
+		"DSC",
+		"dsPIC",
+		"Digital Power Conversion",
+		"Power Conversion",
+		"Power Supply",
+		"SMPS"
+	]
+   }
+}
